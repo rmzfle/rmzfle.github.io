@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://rmzfle.github.io/sitemap.xml
